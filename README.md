@@ -1,7 +1,7 @@
 # Seforim Finder: 
 
 # Installation 
-This repository contains files for setting up the seforim finder on a windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue if you would like instructions for setting the program up on those platforms.
+This repository contains files for setting up the seforim finder on a windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
 
 Steps: 
  1. Click on the green button above labeled "Code", and click "Download as zip" to download the contents of this repository into a zip file and unzip/extract the zip file
