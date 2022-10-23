@@ -4,7 +4,7 @@
 This repository contains files for setting up the seforim finder on a windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
 
 Steps: 
- 1. Click on the green button above labeled "Code", and click "Download as zip" to download the contents of this repository into a zip file and unzip/extract the zip file
+ 1. Download the contents of this repository into a zip file by clicking [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/archive/refs/heads/main.zip), and unzip/extract the zip file.
  2. Download the Java programming language which allows the program to run, from [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) and extract the zip file to the folder named "Scripts".
  3. Double-click the file in the Scripts folder named "SeforimFinder.bat" and the program should start up!
 
