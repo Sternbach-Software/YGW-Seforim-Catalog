@@ -1,4 +1,7 @@
-# Seforim Finder: 
+# Seforim Finder
+
+
+This is a fast, beautiful, and powerful program for searching a catalog of seforim. It can search by exact match, malei/chaseir insensitivity, and Shoresh search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up.
 
 # Installation 
 This repository contains files for setting up the seforim finder on a windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
@@ -15,3 +18,19 @@ If you would like to add a shortcut to the taskbar at the bottom of the screen t
  3. Click "Change icon", and find the icon in the folder named "Images".
  4. Drag the shortcut file to the taskbar and the shortcut should appear. Click on the new shortcut and the program should start up!
 
+
+# License 
+This software uses [HebMorph](https://github.com/synhershko/HebMorph) to for the Shoresh search, which is licensed under the GNU Affero General Public License version 3.
+
+# Screenshots
+
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotProgramFrontPage.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchOptions.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchExample.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotMaleiChaseirInsensitive.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotSeforimByCriteria.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotAuthors.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotCategories.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotShelves.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotTips.png)
+![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotHelp.png)
