@@ -30,6 +30,8 @@ You may wonder why I don't package this as an exe file. There are several reason
  - The program takes 10-15 seconds to start up, and I wouldn't want a user thinking that nothing happened while it was loading, so displaying the logs lets you know what is happening and how soon the program will finish setting up.
  - Packaging a Java program as an .exe can be quite complicated, and increases the number of moving parts that can be the cause of an issue should one come up. Leaving the program as a .jar file reduces these complications.
 
+In short, it is to give you, the user, a better experience using the program - both when getting it up and running, as well as when reporting an issue (should one arise).
+
 # License 
 This software uses [HebMorph](https://github.com/synhershko/HebMorph) for the Shoresh search, which is licensed under the GNU Affero General Public License version 3.
 
