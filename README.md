@@ -20,7 +20,7 @@ If you would like to add a shortcut to the taskbar at the bottom of the screen t
 
 
 # License 
-This software uses [HebMorph](https://github.com/synhershko/HebMorph) to for the Shoresh search, which is licensed under the GNU Affero General Public License version 3.
+This software uses [HebMorph](https://github.com/synhershko/HebMorph) for the Shoresh search, which is licensed under the GNU Affero General Public License version 3.
 
 # Screenshots
 
