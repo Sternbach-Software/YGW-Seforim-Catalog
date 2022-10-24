@@ -23,6 +23,7 @@ If you would like to add a shortcut to the taskbar at the bottom of the screen t
 
 ### Why not just use an .exe file?
 You may wonder why I don't package this as an exe file. There are several reasons:
+    
     1. Some antiviruses falsely flag Java programs packaged in an .exe file as a virus, so to make this as seamless of a process as possible, it is not packaged as an exe.
     2. If an error occurs, the contents of the log need to be sent to me for me to fix the error, and using an exe would not allow seeing the logs.
     3. Java programs get very big when packaged into an .exe, and GitHub does not allow hosting files bigger than 100 MB.
