@@ -1,4 +1,4 @@
-# Seforim Finder ![Logo](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/SeforimFinderWhiteAndAlphaLogo.jpeg)
+# Seforim Finder
 
 
 This is a fast, powerful, and beautiful (see screenshots below) program for searching a catalog of Hebrew books (seforim). It can search by exact match, malei/chaseir (plene/defective) insensitivity, and Shoresh (root word) search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos and libraries for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up. The code is available [here](https://github.com/shmueldabomb441/SeforimCatalog)
