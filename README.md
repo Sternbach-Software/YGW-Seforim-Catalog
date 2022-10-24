@@ -21,7 +21,7 @@ If you would like to add a shortcut to the taskbar at the bottom of the screen t
  4. Click "Change icon". In the popup, click "Browse..." and navigate to where you extracted this repository (the file you downloaded in step 1 of Basic Installation above). There is an icon in that folder with a magnifying glass on a book. Double-click that image to select it. Click "OK" to exit the icon picker popup window. Click "Apply" in the Properties windo to save the changes, and click "OK" to close the Properties window.
  5. Drag the shortcut file to the taskbar and the shortcut should appear. Click on the new shortcut and the program should start up!
 
-### Why not just use an .exe file?
+## Why not just use an .exe file?
 You may wonder why I don't package this as an exe file. There are several reasons:
     
  - Some antiviruses falsely flag Java programs packaged in an .exe file as a virus, so to make this as seamless of a process as possible, it is not packaged as an exe.
