@@ -16,7 +16,7 @@ This repository contains files for setting up the seforim finder on a Windows co
 If you would like to add a shortcut to the taskbar at the bottom of the screen to run the program follow the steps below. If you don't care about the icon in the taskbar displaying the seforim finder logo, skip step 4.
 
  1. Right-click on SeforimFinder.bat (the file with a gear icon - the ".bat" part may not be visible) and click "Create shortcut".
- 2. Right click the newly created file named "Seforim Finder - Shortcut", and click on "Properties".
+ 2. Right-click the newly created file named "Seforim Finder - Shortcut", and click on "Properties".
  3. In the text field with the label "Target:", replace the text with `%windir%\system32\cmd.exe /c start "" "%CD%\SeforimFinder.bat"`. Click "Apply" to save the changes.
  4. Click "Change icon". In the popup, click "Browse..." and navigate to where you extracted this repository (the file you downloaded in step 1 above). There is an icon in that folder with a magnifying glass on a book. Double-click that image to select it. Click "OK" to exit the icon picker popup window. Click "Apply" to save the changes, and click "OK" to close the Properties window.
  5. Drag the shortcut file to the taskbar and the shortcut should appear. Click on the new shortcut and the program should start up!
