@@ -6,12 +6,12 @@ This is a fast, powerful, and beautiful (see screenshots below) program for sear
 # Installation 
 This repository contains files for setting up the seforim finder on a Windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
 
-## Basic installation 
+### Basic installation 
  1. Download the contents of this repository into a zip file by clicking [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
  2. Download the Java programming language which allows the program to run by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically) and extract the zip file to the main folder so that the folder with the name "jdk..." is in the same folder as SeforimFinder.jar.
  3. Double-click the file named "SeforimFinder.bat" and the program should start up!
 
-## Adding a taskbar shortcut
+### Adding a taskbar shortcut
 
 If you would like to add a shortcut to the taskbar at the bottom of the screen to run the program follow the steps below. If you don't care about the icon in the taskbar displaying the seforim finder logo, skip step 4.
 
