@@ -1,7 +1,7 @@
 # Seforim Finder
 
 
-This is a fast, beautiful, and powerful program for searching a catalog of seforim. It can search by exact match, malei/chaseir insensitivity, and Shoresh search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up.
+This is a fast, powerful, and beautiful (see screenshots below) program for searching a catalog of Hebrew books (seforim). It can search by exact match, malei/chaseir (plene/defective) insensitivity, and Root word search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up.
 
 # Installation 
 This repository contains files for setting up the seforim finder on a windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
