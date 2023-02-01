@@ -8,7 +8,7 @@ This repository contains files for setting up the seforim finder on a Windows co
 
 ### Basic installation 
  1. Download the contents of this repository into a zip file by clicking [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
- 2. Download the official Java program interpreter (which allows the program to run) by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically) and extract the zip file to the folder you extracted in the previous step, so that the folder with the name "jdk..." is in the same folder as the file "SeforimFinder.jar".
+ 2. Download the official Java program interpreter (which allows the program to run) by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically) and extract the zip file to the folder you made in step 1. (the folder that starts with "jdk" should be in the same folder as the file "SeforimFinder.jar").
  3. Double-click the file named "SeforimFinder***Runner***.bat" (the file with a gear icon - the ".bat" part may not be visible) and the program should start up!
 
 ### Adding a taskbar shortcut
