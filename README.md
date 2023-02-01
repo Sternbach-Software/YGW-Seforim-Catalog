@@ -1,15 +1,16 @@
 # Seforim Finder
 
 
-This is a fast, powerful, and beautiful (see screenshots below) program for searching a catalog of Hebrew books (seforim). It can search by exact match, malei/chaseir (plene/defective) insensitivity, and Shoresh (root word) search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos and libraries for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up. The code is available [here](https://github.com/shmueldabomb441/SeforimCatalog)
+This is a fast, powerful, and beautiful (see screenshots below) program for searching a catalog of Hebrew books (seforim). It can search by exact match, malei/chaseir (plene/defective) insensitivity, and Shoresh (root word) search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos and libraries for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up. The code is available [here](https://github.com/Sternbach-Software/SeforimCatalog).
 
 # Installation 
-This repository contains files for setting up the seforim finder on a Windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
+This repository contains files for setting up the seforim finder on a Windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
 
-### Basic installation 
- 1. Download the contents of this repository into a zip file by clicking [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
- 2. Download the official Java program interpreter (which allows the program to run) by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically) and extract the zip file to the folder you extracted in the previous step, so that the folder with the name "jdk..." is in the same folder as the file "SeforimFinder.jar".
- 3. Double-click the file named "SeforimFinder***Runner***.bat" (the file with a gear icon - the ".bat" part may not be visible) and the program should start up!
+### Simple installation 
+ 1. Download the contents of this repository into a zip file by clicking [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
+ 2. Download the official Java program interpreter (which allows the program to run) by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically).
+ 3. Extract the zip file from step 2. to the folder you made in step 1. (the folder that starts with "jdk" should be in the same folder as the file "SeforimFinder.jar").
+ 4. Double-click the file named "SeforimFinder***Runner***.bat" (the file with a gear icon - the ".bat" part may not be visible) and the program should start up!
 
 ### Adding a taskbar shortcut
 
@@ -27,7 +28,7 @@ You may wonder why I don't package this as an exe file. There are several reason
  - Some antiviruses falsely flag Java programs packaged in an .exe file as a virus, so to make this as seamless of a process as possible, it is not packaged as an exe.
  - If an error occurs, the contents of the log need to be sent to me for me to fix the error, and using an exe would not allow seeing the logs.
  - Java programs get very big when packaged into an .exe, and GitHub does not allow hosting files bigger than 100 MB.
- - The program takes 10-15 seconds to start up, and I wouldn't want a user thinking that nothing happened while it was loading, so displaying the logs lets you know what is happening and how soon the program will finish setting up.
+ - The program can take 5-10 seconds to start up, and I wouldn't want a user thinking that nothing happened while it was loading, so displaying the logs lets you know what is happening and how soon the program will finish setting up.
  - Packaging a Java program as an .exe can be quite complicated, and increases the number of moving parts that can be the cause of an issue should one come up. Leaving the program as a .jar file reduces these complications.
 
 In short, it is to give you, the user, a better experience using the program - both when getting it up and running, as well as when reporting an issue (should one arise).
@@ -37,13 +38,13 @@ This software uses [HebMorph](https://github.com/synhershko/HebMorph) for the Sh
 
 # Screenshots
 
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotProgramFrontPage.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchOptions.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchExample.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotMaleiChaseirInsensitive.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotSeforimByCriteria.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotAuthors.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotCategories.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotShelves.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotTips.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotHelp.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotProgramFrontPage.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotRootWordSearchOptions.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotRootWordSearchExample.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotMaleiChaseirInsensitive.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotSeforimByCriteria.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotAuthors.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotCategories.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotShelves.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotTips.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotHelp.png)
