@@ -4,10 +4,10 @@
 This is a fast, powerful, and beautiful (see screenshots below) program for searching a catalog of Hebrew books (seforim). It can search by exact match, malei/chaseir (plene/defective) insensitivity, and Shoresh (root word) search (good for finding a sefer with an approximate title, among other things). I would love to spread it to other yeshivos and libraries for free. if you would like to use it, please let me know so I can keep tabs on the user base. Feel free to create an issue [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/issues/new/choose) if you need help setting it up. The code is available [here](https://github.com/Sternbach-Software/SeforimCatalog).
 
 # Installation 
-This repository contains files for setting up the seforim finder on a Windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
+This repository contains files for setting up the seforim finder on a Windows computer. Instructions for setting it up on a macOS or Linux computer are virtually the same, but require me to create an additional file. Create an issue [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/issues/new/choose) if you would like instructions for setting the program up on those platforms.
 
 ### Simple installation 
- 1. Download the contents of this repository into a zip file by clicking [here](https://github.com/shmueldabomb441/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
+ 1. Download the contents of this repository into a zip file by clicking [here](https://github.com/Sternbach-Software/YGW-Seforim-Catalog/archive/refs/heads/main.zip) (download will start automatically), and unzip/extract the zip file.
  2. Download the official Java program interpreter (which allows the program to run) by clicking [here](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_windows-x64_bin.zip) (download will start automatically).
  3. Extract the zip file from step 2. to the folder you made in step 1. (the folder that starts with "jdk" should be in the same folder as the file "SeforimFinder.jar").
  4. Double-click the file named "SeforimFinder***Runner***.bat" (the file with a gear icon - the ".bat" part may not be visible) and the program should start up!
@@ -38,13 +38,13 @@ This software uses [HebMorph](https://github.com/synhershko/HebMorph) for the Sh
 
 # Screenshots
 
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotProgramFrontPage.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchOptions.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotRootWordSearchExample.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotMaleiChaseirInsensitive.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotSeforimByCriteria.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotAuthors.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotCategories.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotShelves.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotTips.png)
-![Alt Text](https://raw.github.com/shmueldabomb441/SeforimCatalog/master/ScreenshotHelp.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotProgramFrontPage.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotRootWordSearchOptions.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotRootWordSearchExample.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotMaleiChaseirInsensitive.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotSeforimByCriteria.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotAuthors.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotCategories.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotShelves.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotTips.png)
+![Alt Text](https://raw.github.com/Sternbach-Software/SeforimCatalog/master/ScreenshotHelp.png)
