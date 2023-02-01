@@ -28,7 +28,7 @@ You may wonder why I don't package this as an exe file. There are several reason
  - Some antiviruses falsely flag Java programs packaged in an .exe file as a virus, so to make this as seamless of a process as possible, it is not packaged as an exe.
  - If an error occurs, the contents of the log need to be sent to me for me to fix the error, and using an exe would not allow seeing the logs.
  - Java programs get very big when packaged into an .exe, and GitHub does not allow hosting files bigger than 100 MB.
- - The program takes 10-15 seconds to start up, and I wouldn't want a user thinking that nothing happened while it was loading, so displaying the logs lets you know what is happening and how soon the program will finish setting up.
+ - The program can take 5-10 seconds to start up, and I wouldn't want a user thinking that nothing happened while it was loading, so displaying the logs lets you know what is happening and how soon the program will finish setting up.
  - Packaging a Java program as an .exe can be quite complicated, and increases the number of moving parts that can be the cause of an issue should one come up. Leaving the program as a .jar file reduces these complications.
 
 In short, it is to give you, the user, a better experience using the program - both when getting it up and running, as well as when reporting an issue (should one arise).
