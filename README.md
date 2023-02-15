@@ -22,6 +22,12 @@ If you would like to add a shortcut to the taskbar at the bottom of the screen t
  4. Click "Change icon". In the popup, click "Browse..." and navigate to where you extracted this repository (the file you downloaded in step 1 of Basic Installation above). There is an icon in that folder with a magnifying glass on a book. Double-click that image to select it. Click "OK" to exit the icon picker popup window. Click "Apply" in the Properties windo to save the changes, and click "OK" to close the Properties window.
  5. Drag the shortcut file to the taskbar and the shortcut should appear. Click on the new shortcut and the program should start up!
 
+## Using a custom book catalog
+
+The catalog is pulled from a local spreadsheet (CSV) file. The file bundled with the program is from the Yeshiva of Greater Washington's seforim library. A companion program for creating this file is under consideration for being created. Currently, the workflow involves editing a spreadsheet (using Google Sheets) and exporting that spreadsheet as a `.tsv` file (TSV stands for Tab Seperated Value, because book names can contain commas). 
+
+The program is expecting columns to be in a certain order because it was designed for a specific spreadsheet, but it can easily be restructered to accomodate other formats. I would be happy to work with any institution to make the process user-friendly.
+
 ## Why not just use an .exe file?
 You may wonder why I don't package this as an exe file. There are several reasons:
     
